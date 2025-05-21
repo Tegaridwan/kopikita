@@ -49,3 +49,28 @@ html {
   background-color: #9d7c5f;
   color: #fff;
 }
+
+.h2-ulasan{
+    margin-bottom: 60px;
+    margin-top: 30px;
+}
+
+.h2-menu{
+    margin-top: 30px;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.btn-custom {
+    background-color: #684b30;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
