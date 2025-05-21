@@ -1,0 +1,51 @@
+.carousel-img {
+    height: 400px;
+    object-fit: cover;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* .navbar {
+    height: 96px;
+} */
+
+.p-100 {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+/* .p-50 {
+    padding: 100px;
+} */
+
+#q-menu .card {
+    height: 250px;
+    margin-top: 24px;
+    background: rgb(0, 0, 0);
+    overflow: hidden;
+}
+
+#q-menu .card img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+#q-menu .carusel {
+    height: 250px;
+    margin-top: 24px;
+    background: rgb(0, 0, 0);
+    overflow: hidden;
+}
+
+.btn-custom {
+  background-color: #684b30;
+  color: #fff;
+  border: none;
+}
+.btn-custom:hover, .btn-custom:focus {
+  background-color: #9d7c5f;
+  color: #fff;
+}
